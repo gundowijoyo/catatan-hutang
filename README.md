@@ -13,8 +13,3 @@
 <i>Script ini di buat untuk tujuan pembelajaran 
 Silahkan kalian kembangkan lagi okee Semoga bermanfaat..</i><b>😄</b>
 </div>
-
-<marquee style="font-size:18px;">
-  Jangn Lupa Tertawa Brader
-  Assalamualaikum..
-  </marquee>
