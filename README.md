@@ -5,7 +5,10 @@
   </li>
   
 <li>Jangan siapin database mysql atau dsb. Karena kita menggunakan database no sql dsb ..
-</li>  
+</li> 
+<li>
+Langsung Jalanin file index.php
+</li>
   
 </ol>
 
